@@ -1,0 +1,1 @@
+export type IGame = "tic-tac-toe" | "bridge" | "sea-battle" | null
